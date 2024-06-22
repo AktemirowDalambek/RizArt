@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5f15f06.css",
+    "main.js": "/static/js/main.b71a8064.js",
+    "static/media/bgHego.jpg": "/static/media/bgHego.61c293c398940efbbe3a.jpg",
+    "index.html": "/index.html",
+    "main.c5f15f06.css.map": "/static/css/main.c5f15f06.css.map",
+    "main.b71a8064.js.map": "/static/js/main.b71a8064.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f15f06.css",
+    "static/js/main.b71a8064.js"
+  ]
+}
